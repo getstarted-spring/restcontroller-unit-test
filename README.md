@@ -1,3 +1,3 @@
 # @RestController Unit Testing
 
-Get started with Spring Boot
+Get started with Spring
